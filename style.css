@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#word, #letters, #chances {
+    margin-top: 30px;
+}
+
+#word {
+    font-size: 30px;
+}
+
+#letters {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#remaining {
+    font-weight: bold;
+}
